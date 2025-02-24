@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, url_for, jsonify, session, send_file, make_response #cadythapa
+from flask import Flask, request, redirect, url_for, jsonify, session, send_file, make_response 
 import pyotp
 import qrcode
 import io
