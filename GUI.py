@@ -1,4 +1,4 @@
-import sqlite3 #cadythapa
+import sqlite3 
 import pyotp
 import qrcode
 import io
